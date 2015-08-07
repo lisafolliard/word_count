@@ -10,4 +10,8 @@ describe('String#word_count') do
   it('takes a two word string and counts number of instances of a particular word') do
     expect(("blue blue").word_count("blue")).to(eq(2))
   end
+
+  it('takes a multiple word string and counts number of instances of a particular word') do
+    expect(("blue blue red blue").word_count("blue")).to(eq(3))
+  end
 end
