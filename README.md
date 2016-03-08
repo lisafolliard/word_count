@@ -8,10 +8,6 @@ Description
 
 A user is prompted to input a multiple word string and separately, a single word string. The application calculates the number of instances of the single word string and returns that number.
 
-Link to Application
-
-https://protected-escarpment-1594.herokuapp.com/
-
 Setup
 
 Install and Run!
